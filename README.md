@@ -1,5 +1,8 @@
 # Reproducible Research in the Interpretive Social Sciences
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lknelson/reproducibility-example/master)
+
+
 The repository is a short example of what reproducible research may look like the interpretive social sciences. The goal with this reprository is to present a way of inviting readers to explore themes in interpretive or qualitative data. The output should be completely reproducible, providing a foundation to build reliable intepretation of the output.
 
 The repository includes a [Binder badge](https://mybinder.org/) so readers can launch a working environment in their browser and directly execute code, without having to download software.
